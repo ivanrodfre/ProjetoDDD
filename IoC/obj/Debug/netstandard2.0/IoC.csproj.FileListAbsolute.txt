@@ -1,0 +1,15 @@
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\IoC.deps.json
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\IoC.dll
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\IoC.pdb
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.csprojResolveAssemblyReference.cache
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.csproj.CoreCompileInputs.cache
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfoInputs.cache
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.AssemblyInfo.cs
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.dll
+C:\ProjetosTeste\ProjetoTeste\IoC\obj\Debug\netstandard2.0\IoC.pdb
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Infraestrutura.dll
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Infraestrutura.pdb
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Domain.dll
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Domain.pdb
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Application.dll
+C:\ProjetosTeste\ProjetoTeste\IoC\bin\Debug\netstandard2.0\Application.pdb

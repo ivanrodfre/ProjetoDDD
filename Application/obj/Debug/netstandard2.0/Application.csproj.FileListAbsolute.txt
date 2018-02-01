@@ -1,0 +1,13 @@
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Application.dll
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Infraestrutura.dll
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\ProjetosTeste\ProjetoTeste\Application\bin\Debug\netstandard2.0\Infraestrutura.pdb
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.csprojResolveAssemblyReference.cache
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.dll
+C:\ProjetosTeste\ProjetoTeste\Application\obj\Debug\netstandard2.0\Application.pdb
